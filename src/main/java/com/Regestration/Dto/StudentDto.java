@@ -38,9 +38,5 @@ public class StudentDto {
 	}
 	public void setBranch(String branch) {
 		this.branch = branch;
-	}
-	
-	
-	
-	
+	}//c
 }
